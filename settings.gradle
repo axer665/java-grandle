@@ -1,0 +1,5 @@
+rootProject.name = 'netology-grandle-1'
+include 'db'
+include 'api'
+include 'service'
+
